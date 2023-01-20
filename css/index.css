@@ -1,0 +1,169 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+
+}
+
+
+
+.cinta1{
+
+	width: 100%;
+	height: 600px;
+	background-color: purpl;
+	background-image: url(https://cramexdrones.com/images/5120x1200-produccion-cramex-drones.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+
+.cinta2{
+
+	width: 100%;
+	height: 600px;
+	background-color: purpl;
+	background-image: url(https://cramexdrones.com/images/5120x1200-minera-cramex-drones.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+
+
+.cinta3{
+
+	width: 100%;
+	height: 600px;
+	background-color: purpl;
+	background-image: url(https://cramexdrones.com/images/5120x1200-agricultura-cramex-drones.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+
+.cinta4{
+
+	width: 100%;
+	height: 600px;
+	background-color: purpl;
+	background-image: url(https://cramexdrones.com/images/5120x1200-piloto-cramex-drones.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+
+
+h1.sombra{
+
+	font-size: 33px;
+	text-shadow: 2px 2px 4px black;
+
+}
+
+
+h2.sombra{
+
+	font-size: 35px;
+	text-shadow: 2px 2px 4px black;
+
+}
+
+h3.sombra{
+
+	font-size: 33px;
+	text-shadow: 2px 2px 4px black;
+
+}
+
+
+.alinear{
+	font-size: 35px;
+	text-shadow: 2px 2px 4px black;
+}
+
+
+h1{
+
+	font-size: 35px;
+}
+
+
+/* imagen inicio */
+.siete{
+
+	width: 300px;
+}
+/* imagen final */
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+/* ADAPTABLE INICIO */
+
+/*mobile devices*/
+
+@media (min-width: 0px) and (max-width: 600px){
+
+	.cabezal{
+
+		margin-top: 9px;
+	}	
+}
+
+
+
+/*tablets devices*/
+@media (min-width:601px) and (max-width:991px){
+
+	.cabezal{
+
+		margin-top: 0px;
+	}
+}
+
+
+
+/*desktop devices*/
+@media (min-width:992px) and (max-width:1199px){
+
+	.cabezal{
+
+		margin-top: 0px;
+	}
+}
+
+
+/*large desktop devices*/
+@media (min-width:1200px) and (max-width:1919px){
+
+	.cabezal{
+
+		margin-top: 0px;
+	}
+}
+
+
+
+
+
+/* 5K */
+
+@media (min-width:1920px) and (max-width:5120px){
+
+	.cabezal{
+
+		margin-top: 0px;
+	}
+}
+/* ADAPTABLE FINAL */

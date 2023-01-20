@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+/* FOTTER INICIO */
+
+/* rectangulo del footer inicio */
+.page-footer {
+
+	background-color: rgb(255, 255, 255);
+}
+/* rectangulo del footer final */
+
+
+/* separacion entre lineas de iconos de redes sociales inicio */
+.acomodo li{
+
+	line-height: 32px;
+}
+/* separacion entre lineas de iconos de redes sociales final */
+
+
+/* tamaÃ±o de iconos de redes sociales y alineacion horizontal imagen-texto inicio */
+.redes{
+
+	width: 23px;
+	vertical-align: middle;
+	/* Ojo vertical-align: text-middle no existe*/
+}
+/* tamaÃ±o de iconos de redes sociales y alineacion horizontal imagen-texto final */
+
+
+
+.azul:hover{
+
+	background-color: rgb(255, 255, 255);
+}
+
+
+/* FOTTER FINAL */
